@@ -34,8 +34,8 @@ To better understand how different age groups and customer types (subscribers vs
 - Target weekday commuter demographics (35–44 years) in marketing campaigns
 
 ## 📂 Files
-- `data/nyc_bike_rentals_cleaned.csv`: cleaned dataset
-- `presentation/citi_bike_insights.pptx`: summary of findings
+- `nyc_bike_rentals_cleaned.csv`: cleaned dataset,dataset gotten from CareerFoundry.com
+- `citi_bike_insights.pptx`: summary of findings
 
 ---
 
